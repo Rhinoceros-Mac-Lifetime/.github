@@ -1,9 +1,9 @@
-# Rhinoceros Mac Standard License
+# Rhinoceros Mac
 
 <img src="https://www.genesis-technologies.com/cdn/shop/products/682063.jpg?v=1710838975" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>Rhinoceros for macOS</h3>
+<h3>Rhinoceros macOS</h3>
 <p>Rhinoceros is a specialized 3D modeling software for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
 <a href="https://mops-apps.github.io/.github/rhinoceros">
@@ -18,7 +18,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/4X/d/1/5/d15b8d85622630f84cb05424cc7fa98f082fbb13.jpeg" width="824" alt="Screenshot"/>
+<img src="https://i.ytimg.com/vi/3bOfpm4iC9I/maxresdefault.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## Overview
 
-<a href="#">Rhinoceros for macOS</a> is a focused 3D modeling software for macOS built to feel native on the Mac. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
+<a href="#">Rhinoceros macOS</a> is a focused 3D modeling software for macOS built to feel native on the Mac. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
 
 In everyday use, Rhinoceros keeps core actions close at hand while offering additional <a href="#">advanced controls</a> for users who want to fine‑tune behavior. Menus, shortcuts and panels follow Apple's design language, helping you move quickly between tasks. Whether you are exploring features for the first time or returning to established workflows, the environment stays consistent and reliable.
 
